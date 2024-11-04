@@ -28,7 +28,7 @@ Boolean retrieval, Vector Space Model και Probabilistic retrieval models.
 ### Βήμα 2. Προεπεξεργασία κειμένου (Text Processing): 
 Κάντε προεπεξεργασία του κειμενικού περιεχομένου. Αυτό μπορεί να περιλαμβάνει εργασίες όπως 
 tokenization, stemming/lemmatization και stop-word removal και αφαίρεση ειδικών χαρακτήρων 
-(removing special characters). 
+(removing special characters).  
 **Ορόσημο:** Το «καθαρισμένο» σύνολο δεδομένων και περιγραφή των εργασιών που επιλέχθηκαν. 
 ### Βήμα 3. Ευρετήριο (Indexing): 
   &nbsp; α. Δημιουργήστε μια ανεστραμμένη δομή δεδομένων ευρετηρίου (inverted index) για την 
