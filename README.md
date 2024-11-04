@@ -23,7 +23,7 @@ Boolean retrieval, Vector Space Model και Probabilistic retrieval models.
    &nbsp; α. Συλλέξτε έγγραφα από το Wikipedia  
    &nbsp; β. Υλοποιήστε έναν web crawler σε Python (π.χ. με BeautifulSoup) για τη συλλογή εγγράφων 
              από την επιλεγμένη πηγή. Εναλλακτικά, βρείτε ένα έτοιμο σύνολο δεδομένων από το 
-             Wikipedia.
+             Wikipedia.  
    &nbsp; γ. Αποθηκεύστε τα δεδομένα που συλλέγονται σε δομημένη μορφή, όπως JSON ή CSV. 
 **Ορόσημο:** Ένα σύνολο δεδομένων με την περιγραφή του και την περιγραφή της μεθοδολογίας 
 συλλογής του. 
