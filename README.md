@@ -22,9 +22,9 @@ Boolean retrieval, Vector Space Model και Probabilistic retrieval models.
    * Υλοποιήστε έναν web crawler σε Python (π.χ. με BeautifulSoup) για τη συλλογή εγγράφων
        από την επιλεγμένη πηγή. Εναλλακτικά, βρείτε ένα έτοιμο σύνολο δεδομένων με άρθρα του
        Wikipedia. Η συλλογή πρέπει να έχει έναν ικανοποιητικό αριθμό εγγράφων χωρίς ωστόσο
-       να είναι απαραίτητο να είναι μακροσκελή. Μπορείτε να βρείτε βοήθεια στα:
-         o https://datamam.com/tutorial-how-to-scrape-wikipedia/
-         o https://dev.to/admantium/nlp-project-wikipedia-article-crawler-classification-corpus-reader-dik  
+       να είναι απαραίτητο να είναι μακροσκελή. Μπορείτε να βρείτε βοήθεια στα:  
+         * https://datamam.com/tutorial-how-to-scrape-wikipedia/  
+         * https://dev.to/admantium/nlp-project-wikipedia-article-crawler-classification-corpus-reader-dik  
    * Αποθηκεύστε τα δεδομένα που συλλέγονται σε δομημένη μορφή, όπως JSON ή CSV.
 
 **Ορόσημο:** Ένα σύνολο δεδομένων με την περιγραφή του και την περιγραφή της μεθοδολογίας 
